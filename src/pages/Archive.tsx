@@ -1,5 +1,6 @@
 
 import { useState } from "react";
+import { Link } from "react-router-dom";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import SearchBar from "../components/SearchBar";
@@ -49,12 +50,12 @@ const Archive = () => {
                           <span className="text-sm text-muted-foreground">
                             {article.date.split(", ")[0]}
                           </span>
-                          <a
-                            href={`/article/${article.slug}`}
+                          <Link
+                            to={`/article/${article.slug}`}
                             className="font-serif text-lg font-medium hover:text-primary sm:text-xl"
                           >
                             {article.title}
-                          </a>
+                          </Link>
                         </div>
                       </li>
                     ))}
