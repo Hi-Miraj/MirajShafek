@@ -53,7 +53,7 @@ const About = () => {
                 <li>Bangladesh Robotics Olympiad 2022 – BDRO Finalist (One of the Top 20 Robots)</li>
                 <li>National Debate Champion (Organized by the biggest debating organization in South Asia)</li>
                 <li>Won multiple medals in Mathematics, Biology, Physics, and English Olympiads</li>
-                <li>Mentor and Coordinator of Entore, one of Bangladesh's most prominent debate and robotics clubs</li>
+                <li>Mentor and Coordinator, one of Bangladesh's most prominent debate and robotics clubs</li>
               </ul>
               
               <p>Beyond my entrepreneurial work, I have actively contributed to public health research, working on projects that address healthcare inequalities in remote regions. My technical expertise includes Python, Scikit-learn, AI-driven diagnostics, and computer vision, enabling me to bridge the gap between healthcare and technology.</p>
