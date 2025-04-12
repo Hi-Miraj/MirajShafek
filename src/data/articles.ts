@@ -11,8 +11,8 @@ export interface Article {
 
 export const articles: Article[] = [
   {
-    id: "1",
-    date: "OCTOBER 15, 2023",
+    id: "2",
+    date: "OCTOBER 15, 2024",
     title: "Designing Aerodynamic Efficiency in Urban Air Mobility",
     excerpt: "The future of transportation is vertical. As cities grow denser, the practical solution for mobility isn't more roads—it's utilizing the vast, empty space above them.",
     content: `
@@ -61,8 +61,8 @@ export const articles: Article[] = [
     slug: "designing-aerodynamic-efficiency-urban-air-mobility"
   },
   {
-    id: "2",
-    date: "SEPTEMBER 22, 2023",
+    id: "3",
+    date: "SEPTEMBER 22, 2024",
     title: "The Economics of Autonomous Delivery Fleets",
     excerpt: "As last-mile delivery costs continue to rise, autonomous robots and drones offer a compelling alternative to traditional delivery methods.",
     content: `
@@ -137,8 +137,8 @@ export const articles: Article[] = [
     slug: "economics-autonomous-delivery-fleets"
   },
   {
-    id: "3",
-    date: "AUGUST 17, 2023",
+    id: "4",
+    date: "AUGUST 17, 2024",
     title: "The Philosophy of Human-Machine Collaboration",
     excerpt: "As AI systems become more integrated into creative and knowledge work, we need a new philosophy of collaboration that respects both human and machine contributions.",
     content: `
@@ -204,8 +204,8 @@ export const articles: Article[] = [
     slug: "philosophy-human-machine-collaboration"
   },
   {
-    id: "4",
-    date: "JULY 29, 2023",
+    id: "5",
+    date: "JULY 29, 2024",
     title: "The Discipline of Digital Minimalism",
     excerpt: "In an age of unlimited information and constant connectivity, the most valuable skill may be knowing what to ignore.",
     content: `
@@ -300,8 +300,8 @@ export const articles: Article[] = [
     slug: "discipline-digital-minimalism"
   },
   {
-    id: "5",
-    date: "JUNE 12, 2023",
+    id: "6",
+    date: "JUNE 12, 2024",
     title: "The Architect and The Gardener: Two Models of Creation",
     excerpt: "There are two fundamental approaches to creating complex systems: architecting and gardening. Each has its place, but the most resilient systems blend both mindsets.",
     content: `
@@ -415,7 +415,7 @@ export const articles: Article[] = [
     slug: "architect-gardener-two-models-creation"
   },
   {
-  "id": "6",
+  "id": "1",
   "date": "APRIL 12, 2025",
   "title": "Comparative Analysis of Genomic, Proteomic, and Metabolomic Data for Early Detection of Glioblastoma Using AI",
   "excerpt": "This research aimed to determine the most effective type of omics data (genomic, proteomic, or metabolomic) for early detection of glioblastoma using predictive modeling. We found that proteomic data consistently outperformed both genomic and metabolomic data across all evaluation metrics.",
