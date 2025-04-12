@@ -416,7 +416,7 @@ export const articles: Article[] = [
   },
   {
   "id": "6",
-  "date": "2025-04-12",
+  "date": "APRIL 12, 2025",
   "title": "Comparative Analysis of Genomic, Proteomic, and Metabolomic Data for Early Detection of Glioblastoma Using AI",
   "excerpt": "This research aimed to determine the most effective type of omics data (genomic, proteomic, or metabolomic) for early detection of glioblastoma using predictive modeling. We found that proteomic data consistently outperformed both genomic and metabolomic data across all evaluation metrics.",
   "content": `
