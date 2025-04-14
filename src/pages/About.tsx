@@ -52,6 +52,7 @@ const About = () => {
               <h2>Achievements & Recognitions</h2>
               <ul>
                 <li>HackCSB'24 People's Choice Winner</li>
+                <li>Finalist (Top 10) – Youth Innovation Expo Asia 2025</li>
                 <li>2× Finalist for Bangladesh's Highest U18 Award</li>
                 <li>NASA Space Apps Challenge 2024 – One of the Top 50 Teams in Bangladesh</li>
                 <li>International Astronomy and Astrophysics Competition 2023 – Semifinalist</li>
